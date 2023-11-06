@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite it as below."
+authors:
+- family-names: "Fard"
+  given-names: "Fariba"
+title: "HistoricalBridgeData2016-2020"
+version: 01.0
+doi: 10.5281/zenodo.10073795
+date-released: 2023-05-11
+url: "https://doi.org/10.5281/zenodo.10073795"
